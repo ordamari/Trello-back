@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.348e9606.chunk.css",
+    "main.js": "/static/js/main.ed4fcb05.chunk.js",
+    "main.js.map": "/static/js/main.ed4fcb05.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cb82405f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cb82405f.js.map",
+    "static/js/2.59b56c8a.chunk.js": "/static/js/2.59b56c8a.chunk.js",
+    "static/js/2.59b56c8a.chunk.js.map": "/static/js/2.59b56c8a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e0d23267bb4a053e782dc9c2fdc26c6e.js": "/precache-manifest.e0d23267bb4a053e782dc9c2fdc26c6e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.348e9606.chunk.css.map": "/static/css/main.348e9606.chunk.css.map",
+    "static/js/2.59b56c8a.chunk.js.LICENSE": "/static/js/2.59b56c8a.chunk.js.LICENSE",
+    "static/media/global.scss": "/static/media/SourceSansPro-SemiBold.83476a89.ttf",
+    "static/media/board.png": "/static/media/board.89d378b8.png",
+    "static/media/card-back.svg": "/static/media/card-back.a656846d.svg",
+    "static/media/cat.gif": "/static/media/cat.c35ca836.gif",
+    "static/media/colors.jpg": "/static/media/colors.864f4df1.jpg",
+    "static/media/hero.png": "/static/media/hero.6a3ccd8e.png",
+    "static/media/login-bg-left.png": "/static/media/login-bg-left.46c0c36c.png",
+    "static/media/login-bg-right.png": "/static/media/login-bg-right.3a9647a6.png",
+    "static/media/photos.jpg": "/static/media/photos.48948499.jpg",
+    "static/media/view.svg": "/static/media/view.07d2e3b1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb82405f.js",
+    "static/js/2.59b56c8a.chunk.js",
+    "static/css/main.348e9606.chunk.css",
+    "static/js/main.ed4fcb05.chunk.js"
+  ]
+}
